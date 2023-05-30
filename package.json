@@ -1,0 +1,25 @@
+{
+  "name": "inspect-private-variables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xAdnanH/inspect-private-variables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xAdnanH/inspect-private-variables/issues"
+  },
+  "homepage": "https://github.com/0xAdnanH/inspect-private-variables#readme",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
