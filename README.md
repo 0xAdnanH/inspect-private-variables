@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+The PrivateVariableInspector contract provides a mechanism for inspecting private variables in Solidity smart contracts. 
+In Solidity, variables marked as private are not directly accessible from external contracts or through regular function calls. 
+However, with the PrivateVariableInspector contract, developers can leverage its functionality to retrieve the values of private variables.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
