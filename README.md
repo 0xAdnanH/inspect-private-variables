@@ -3,7 +3,7 @@
 
 ### cloning the repository
 
-Alternatively you can also clone the repository and install its dependencies to start using the smart contracts.
+Alternatively you can clone the repository and install its dependencies to start using the smart contracts.
 
 ```bash
 $ git clone https://github.com/0xAdnanH/inspect-private-variables.git
